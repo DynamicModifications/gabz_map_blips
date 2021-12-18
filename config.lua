@@ -7,6 +7,8 @@ Config.blips = {
 	{name="Bowling Alley", id=103, color=3, x=760.792, y=-777.724, z=26.456},
 -- Gabz Cat Cafe
 	{name="Resturant", id=59, color=0, x=-580.862, y=-1079.083, z=22.330},
+-- Gabz Davis Police Department
+	{name="Police Station", id=60, color=38, x=383.423, y=-1590.407, z=29.276},
 -- Gabz Pop's Diner
 	{name="Resturant", id=59, color=0, x=1576.905, y=6451.104, z=25.006},
 -- Gabz ESB LTD Gasoline
@@ -47,6 +49,8 @@ Config.blips = {
 	{name="Convenience Store", id=59, color=0, x=158.520, y=6632.474, z=31.659},
 -- Gabz Paleto Liquor Store
 	{name="Liquor Store", id=93, color=0, x=-154.363, y=6329.432, z=31.565},
+-- Gabz Paleto Police Department
+	{name="Police Station", id=60, color=38, x=-432.177, y=6019.605, z=31.490},
 -- Gabz Park Ranger
 	{name="Ranger Station", id=60, color=25, x=388.640, y=787.820, z=187.474},
 -- Gabz Pillbox Hospital v2
